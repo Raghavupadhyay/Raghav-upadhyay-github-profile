@@ -103,4 +103,10 @@ I care about internals, not just APIs.
 - Machine Learning Engineer roles  
 - Research Engineer roles  
 - NLP Engineer roles  
-- AI Systems roles   -->
+- AI Systems roles 
+
+
+
+
+add stats and emoji and expiernce in research position projectsstack tach and roles and role opend for and see tanav sir dhruvi and satviks sir and umang bhalla
+  -->
