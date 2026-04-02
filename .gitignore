@@ -1,0 +1,7 @@
+# Ignore node modules
+readme.modules/
+
+
+# Ignore env file
+.env
+.history
