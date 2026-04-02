@@ -31,7 +31,7 @@ I build AI systems from first principles, from neural networks written in NumPy 
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 
 ### 🔹 Word2Vec From Scratch
@@ -103,4 +103,4 @@ I care about internals, not just APIs.
 - Machine Learning Engineer roles  
 - Research Engineer roles  
 - NLP Engineer roles  
-- AI Systems roles  
+- AI Systems roles   -->
