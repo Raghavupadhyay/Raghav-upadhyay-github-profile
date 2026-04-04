@@ -4,4 +4,6 @@ readme.modules/
 
 # Ignore env file
 .env
-.history
+.history/
+__pycache__/
+*.py[codz]
