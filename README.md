@@ -100,12 +100,13 @@ I care about internals, not just APIs.
 
 ---
 
-## 📫 Open To
+##  Open To
 
 - Machine Learning Engineer roles  
 - Research Engineer roles  
 - NLP Engineer roles  
 - AI Systems roles 
+- Data Scientist roles
 
 
 
@@ -131,4 +132,4 @@ I care about internals, not just APIs.
 
 <!-- 
 
- expiernce in research position  & pin the robo instruct and speech one project -->
+ expiernce in research position   -->
