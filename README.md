@@ -67,7 +67,6 @@ Input → Embeddings → Attention → Reasoning → Output
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p> -->
 
----
 
 ##  Research Focus
 
@@ -108,7 +107,7 @@ I care about internals, not just APIs.
 - AI Systems roles 
 - Data Scientist roles
 
-
+---
 
 ##  Dev Thought
 
@@ -117,6 +116,8 @@ I care about internals, not just APIs.
   <i>"Loading intelligence..."</i>
   <!--ENDS_HERE_QUOTE-->
 </p>
+
+---
 
 ##  Final
 
