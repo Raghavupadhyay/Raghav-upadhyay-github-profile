@@ -1,63 +1,3 @@
-
-# 👋 Hi, I’m Raghav Upadhyay
-
-**Machine Learning Engineer | NLP & Retrieval Systems | IIIT Bhopal**  
-
-I build AI systems from first principles, from neural networks written in NumPy to production-style LLM orchestration systems.
-
----
-
-## 🧠 What I Work On
-
-- Representation Learning (Word2Vec, embeddings)
-- Retrieval-Augmented Generation (Vector DB systems)
-- Neural networks implemented from scratch
-- End-to-end Speech Pipelines (VAD → ASR/STT → TTS)
-- Real-time conversational AI systems
-
-### 🔍 Research Areas
-
-- Mechanistic Interpretability (understanding internal circuits of neural networks/Reverse enginnering neural network)
-- Recommendation Systems 
-- Direct Speech-to-Speech Systems
----
-
-### 🎙️ Speech & Audio AI Stack
-
-- VAD (Voice Activity Detection) — detecting speech vs silence
-- ASR (Automatic Speech Recognition) — speech → text :contentReference[oaicite:0]{index=0}  
-- STT (Speech-to-Text) — practical ASR applications
-- TTS (Text-to-Speech) — text → human-like speech
-
----
-
-<!-- ## 🚀 Featured Projects
-
-
-### 🔹 Word2Vec From Scratch
-
-Implemented:
-
-- CBOW (one-hot + embedding lookup variants)
-- Skip-gram
-- Negative sampling
-- Embedding visualization
-
-Built to deeply understand representation learning without relying on high-level framework abstractions.
-
----
-
-### 🔹 Neural Network From Scratch
-
-Built:
-
-- Forward & backward propagation
-- Custom loss functions
-- Training loops in NumPy
-- Modular inference engine
-
-Designed to understand gradient flow and optimization mechanics at a fundamental level.
-
 ---
 
 ## ⚙️ Tech Stack
@@ -108,5 +48,113 @@ I care about internals, not just APIs.
 
 
 
-add stats and emoji and expiernce in research position projectsstack tach and roles and role opend for and see tanav sir dhruvi and satviks sir and umang bhalla
+ expiernce in research position  & pin the robo instruct and speech one project
+ see umang bhalla profile also
+
   -->
+
+
+
+  # 👋 Hi, I'm Raghav Upadhyay
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;NLP+%7C+Retrieval+Systems;Mechanistic+Interpretability;Speech+AI+%7C+Real-time+Systems" />
+</p>
+
+---
+
+## 🧠 Transformer Flow
+
+<p align="center">
+  <img src="transformer.svg" width="700"/>
+</p>
+
+---
+
+## ⚡ About Me
+
+* 🎓 IIIT Bhopal
+* 🤖 ML Engineer/Data Scientist (NLP + Retrieval + Speech AI)
+* 🧠 I build systems from **first principles → production scale**
+<!-- * 🌐 Portfolio:  -->
+
+---
+
+## 🧬 What I Build
+
+```text
+Input → Embeddings → Attention → Reasoning → Output
+```
+
+* Representation Learning (Word2Vec, embeddings)
+* RAG Systems (Vector DB + LLM orchestration)
+* Neural Networks from scratch
+* Real-time conversational AI
+* Speech pipeline (VAD → ASR/STT → TTS)
+
+---
+<!-- 
+## 🎛️ Live Dev Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
+</p>
+
+---
+
+## 📡 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📊 Stats Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p> -->
+
+---
+
+## 🧪 Research Focus
+
+* Mechanistic Interpretability
+* Recommendation Systems
+* Direct Speech-to-Speech Models
+
+---
+
+## 🎙️ Speech AI Stack
+
+| Layer | Tech                         |
+| ----- | ---------------------------- |
+| VAD   | Silero / custom logic        |
+| ASR   | Whisper / lightweight models |
+| STT   | streaming pipelines          |
+| TTS   | neural synthesis             |
+
+---
+
+## 💡 Dev Thought
+
+<p align="center">
+  <!--STARTS_HERE_QUOTE-->
+  <i>"Loading intelligence..."</i>
+  <!--ENDS_HERE_QUOTE-->
+</p>
+---
+
+## 🚀 Final
+
+<p align="center">
+  <i>Building intelligent systems, one layer at a time.</i>
+</p>
