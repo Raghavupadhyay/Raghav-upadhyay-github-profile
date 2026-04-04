@@ -1,61 +1,5 @@
----
 
-## ⚙️ Tech Stack
-
-### Languages
-- Python  
-- C++  
-- JavaScript / Node.js  
-- TypeScript  
-
-### ML / AI
-- NumPy  
-- PyTorch  
-- HuggingFace  
-- Vector Databases  
-
-### Backend / Infra
-- MongoDB  
-- Elasticsearch  
-- REST APIs  
-- Async workflows  
-- Webhooks  
-- Docker  
-- FastAPI
-
----
-
-## 🧩 How I Think About ML
-
-I focus on understanding:
-
-- How embeddings are actually computed  
-- How gradients flow through networks  
-- How retrieval systems scale  
-- How to design AI systems beyond notebooks  
-
-I care about internals, not just APIs.
-
----
-
-## 📫 Open To
-
-- Machine Learning Engineer roles  
-- Research Engineer roles  
-- NLP Engineer roles  
-- AI Systems roles 
-
-
-
-
- expiernce in research position  & pin the robo instruct and speech one project
- see umang bhalla profile also
-
-  -->
-
-
-
-  # 👋 Hi, I'm Raghav Upadhyay
+# 👋 Hi, I'm Raghav Upadhyay
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;NLP+%7C+Retrieval+Systems;Mechanistic+Interpretability;Speech+AI+%7C+Real-time+Systems" />
@@ -63,7 +7,7 @@ I care about internals, not just APIs.
 
 ---
 
-## 🧠 Transformer Flow
+##  Transformer Flow
 
 <p align="center">
   <img src="transformer.svg" width="700"/>
@@ -71,16 +15,16 @@ I care about internals, not just APIs.
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 * 🎓 IIIT Bhopal
-* 🤖 ML Engineer/Data Scientist (NLP + Retrieval + Speech AI)
+<!-- * 🤖 ML Engineer/Data Scientist (NLP + Retrieval + Speech AI) -->
 * 🧠 I build systems from **first principles → production scale**
 <!-- * 🌐 Portfolio:  -->
 
 ---
 
-## 🧬 What I Build
+##  What I Build
 
 ```text
 Input → Embeddings → Attention → Reasoning → Output
@@ -112,7 +56,7 @@ Input → Embeddings → Attention → Reasoning → Output
 
 ---
 
-## 📊 Stats Dashboard
+##  Stats Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -125,7 +69,7 @@ Input → Embeddings → Attention → Reasoning → Output
 
 ---
 
-## 🧪 Research Focus
+##  Research Focus
 
 * Mechanistic Interpretability
 * Recommendation Systems
@@ -143,8 +87,29 @@ Input → Embeddings → Attention → Reasoning → Output
 | TTS   | neural synthesis             |
 
 ---
+##  How I Think About ML
 
-## 💡 Dev Thought
+I focus on understanding:
+
+- How embeddings are actually computed  
+- How gradients flow through networks  
+- How retrieval systems scale  
+- How to design AI systems beyond notebooks  
+
+I care about internals, not just APIs.
+
+---
+
+## 📫 Open To
+
+- Machine Learning Engineer roles  
+- Research Engineer roles  
+- NLP Engineer roles  
+- AI Systems roles 
+
+
+
+##  Dev Thought
 
 <p align="center">
   <!--STARTS_HERE_QUOTE-->
@@ -153,8 +118,17 @@ Input → Embeddings → Attention → Reasoning → Output
 </p>
 ---
 
-## 🚀 Final
+##  Final
 
 <p align="center">
   <i>Building intelligent systems, one layer at a time.</i>
 </p>
+
+
+
+
+
+
+<!-- 
+
+ expiernce in research position  & pin the robo instruct and speech one project -->
