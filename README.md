@@ -17,7 +17,7 @@
 
 ##  About Me
 
-* 🎓 IIIT Bhopal
+* 🎓 IIIT Bhopal'27
 <!-- * 🤖 ML Engineer/Data Scientist (NLP + Retrieval + Speech AI) -->
 * 🧠 I build systems from **first principles → production scale**
 <!-- * 🌐 Portfolio:  -->
