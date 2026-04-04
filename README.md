@@ -7,13 +7,7 @@
 
 ---
 
-##  Transformer Flow
 
-<p align="center">
-  <img src="transformer.svg" width="700"/>
-</p>
-
----
 
 ##  About Me
 
