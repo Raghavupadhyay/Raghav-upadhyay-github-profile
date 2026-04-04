@@ -117,7 +117,6 @@ I care about internals, not just APIs.
   <i>"Loading intelligence..."</i>
   <!--ENDS_HERE_QUOTE-->
 </p>
----
 
 ##  Final
 
